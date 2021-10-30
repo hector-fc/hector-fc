@@ -2,6 +2,17 @@
 
 ## Hi there 👋
 
+<div style="display: inline_block"><br>    
+  <img align="center" alt="fch-jl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="fch-jl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
+  <img align="center" alt="fch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fch-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+
+
+
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCWrogVEFazMRbm5QssPlmWg">
     <img src="https://img.shields.io/badge/-YouTube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
@@ -21,7 +32,12 @@
 
 ---
 
-## [dmatPy](https://ufmt.br/unidade/dmat)
+
+
+
+
+
+
 ---
 
 
