@@ -1,38 +1,23 @@
 
 
-## Hi there 👋
-
-<div style="display: inline_block"><br>    
-  <img align="center" alt="fch-jl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="fch-jl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
-  <img align="center" alt="fch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fch-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-
-
-
-
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCWrogVEFazMRbm5QssPlmWg">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.twitch.tv/fchector">
-    <img src="https://img.shields.io/badge/-Twitch-9146FF.svg?style=flat-square&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/hector-flores-callisaya-0aa95367/">
-    <img src="https://img.shields.io/badge/-linkedIn-0077b5.svg?style=flat-square&logo=linkedin" alt="Linkedin">
-  </a>
+<p>
+Sou entusiasta de programação, ciência de dados e tecnologias educacionais.  
+Trabalho com ferramentas interativas e desenvolvimento de soluções para ensino e análise.
 </p>
 
----
-
-## [GeoGebra+Javascript](https://www.geogebra.org/u/fchect )
-
----
 
 
+## 📌 Sobre este perfil
+
+<p>
+Aqui você encontrará projetos relacionados a:
+</p>
+
+<ul>
+  <li>📊 Ciência de dados</li>
+  <li>📐 Matemática aplicada</li>
+  <li>🧠 Psicometria e avaliação educacional</li>  
+</ul>
 
 
 
